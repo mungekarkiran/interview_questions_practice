@@ -1,0 +1,43 @@
+Interview Q. links:
+
+1. https://www.google.com/search?q=difference+between+multithreading+and+multiprocessing&rlz=1C1CHZL_enIN1035IN1037&oq=difference+between+multi&aqs=chrome.2.0i512j69i57j0i512l8.14772j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=difference+between+multithreading+and+multiprocessing+in+python&rlz=1C1CHZL_enIN1035IN1037&oq=difference+between+multithreading+and+multiprocessing+&aqs=chrome.1.69i59j0i512l3j0i22i30l3j0i390l3.2367j0j7&sourceid=chrome&ie=UTF-8
+
+2. https://www.google.com/search?q=why+tuple+is+faster+than+list&rlz=1C1CHZL_enIN1035IN1037&oq=why+tu&aqs=chrome.2.69i57j0i20i263i512j0i512l3j69i60l3.4967j0j7&sourceid=chrome&ie=UTF-8
+
+3. https://www.google.com/search?q=class+method+vs+static+method+in+python&rlz=1C1CHZL_enIN1035IN1037&oq=class+method+vs+static+method+&aqs=chrome.1.69i57j0i20i263i512j0i512l2j0i22i30l3j0i390l3.11726j0j7&sourceid=chrome&ie=UTF-8
+https://www.geeksforgeeks.org/class-method-vs-static-method-python/
+https://www.tutorialspoint.com/class-method-vs-static-method-in-python
+
+4. https://www.google.com/search?q=application+of+decorators+in+python&rlz=1C1CHZL_enIN1035IN1037&oq=application+of+decorators+in+python&aqs=chrome..69i57j0i22i30l4j0i390l2.9936j1j7&sourceid=chrome&ie=UTF-8
+https://www.freecodecamp.org/news/python-decorators-explained-with-examples/#:~:text=You'll%20use%20a%20decorator,same%20code%20on%20multiple%20functions.
+
+5. https://www.google.com/search?q=in+flask+how+to+start+the+application&rlz=1C1CHZL_enIN1035IN1037&oq=in+flask+how+to+start+the+application&aqs=chrome..69i57j69i64l2.24776j0j7&sourceid=chrome&ie=UTF-8
+https://flask.palletsprojects.com/en/2.2.x/quickstart/#:~:text=To%20run%20the%20application%2C%20use,with%20the%20%2D%2Dapp%20option.&text=As%20a%20shortcut%2C%20if%20the,Line%20Interface%20for%20more%20details.
+https://www.twilio.com/blog/how-run-flask-application
+https://code.visualstudio.com/docs/python/tutorial-flask
+https://stackoverflow.com/questions/29882642/how-to-run-a-flask-application
+
+6. https://www.google.com/search?q=how+to+read+write+any+file+in+pandas+dataframe&rlz=1C1CHZL_enIN1035IN1037&oq=how+to+read+write+any+file+in+pandas&aqs=chrome.1.69i57j33i160l2j33i22i29i30.18433j0j7&sourceid=chrome&ie=UTF-8
+https://www.geeksforgeeks.org/how-to-read-text-files-with-pandas/
+https://www.geeksforgeeks.org/how-to-read-large-text-files-in-python/?ref=rp
+https://www.geeksforgeeks.org/how-to-read-multiple-text-files-from-folder-in-python/?ref=rp
+https://www.geeksforgeeks.org/how-to-read-json-files-with-pandas/?ref=rp
+https://realpython.com/pandas-read-write-files/
+
+7. https://www.google.com/search?q=different+way+of+comnnecting+database+with+differnt+python+library&rlz=1C1CHZL_enIN1035IN1037&oq=different+way+of+comnnecting+database+with+differnt+python+library&aqs=chrome..69i57.36190j1j7&sourceid=chrome&ie=UTF-8
+https://www.geeksforgeeks.org/how-to-connect-python-with-sql-database/
+https://realpython.com/python-sql-libraries/
+https://pynative.com/python-mysql-database-connection/
+https://www.google.com/search?q=python+with+postgresql&rlz=1C1CHZL_enIN1035IN1037&oq=python+with+postgresql&aqs=chrome..69i57j0i22i30l9.8727j0j7&sourceid=chrome&ie=UTF-8
+https://www.tutorialspoint.com/postgresql/postgresql_python.htm
+https://www.postgresqltutorial.com/postgresql-python/
+https://www.google.com/search?q=in+postgresql+method+coalesce&rlz=1C1CHZL_enIN1035IN1037&oq=in+postgresql+method+coalesce&aqs=chrome..69i57j69i64l2.22433j0j7&sourceid=chrome&ie=UTF-8
+https://www.postgresql.org/docs/current/functions-conditional.html#:~:text=The%20COALESCE%20function%20returns%20the,none)')%20...
+https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-coalesce/
+https://www.youtube.com/watch?v=3BnJUs5eAqc
+https://www.youtube.com/watch?v=DHyqdiL7W1c
+https://www.youtube.com/results?search_query=coalesce+in+postgresql+example
+
+8. https://www.google.com/search?q=what+is+database+normalization+and+why+is+it+important&rlz=1C1CHZL_enIN1035IN1037&oq=what+is+database+normalization+a&aqs=chrome.2.69i57j0i512l3j0i22i30l5j0i390.17856j0j7&sourceid=chrome&ie=UTF-8
+
